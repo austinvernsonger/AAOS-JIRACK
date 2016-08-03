@@ -1,10 +1,16 @@
 # AAOS-JIRACK
 Relay App That Slack and JIRA - Allow Communication Between The Two Apps
 
-## Requirements
+### Requirements
 
 
-### JIRA -> Slack
+## JIRA :arrow_right: Slack
+
+### Commands
 
 
-### Slack - > JIRA
+
+
+## Slack :arrow_right: JIRA
+
+### Commands
